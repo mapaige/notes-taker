@@ -16,11 +16,9 @@ function apiroutes(app){
 })
   app.delete("/api/notes/:id",function(req,res){
     let noteId =parseInt(req.params.id)
-    console.log(noteId)
     res.json(true);
     const result = db.filter(item => item.id !== noteId);
-    console.log(result)
-    db= result
+    db = result
     fs.writeFile("./db/db.json",JSON.stringify(db),function(){
       res.json(db)
     })
