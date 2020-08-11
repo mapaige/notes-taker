@@ -9,3 +9,8 @@ Create an application that can be used to write, save, and delete notes.
 <li>CSS (provided)</li>
 <li>Node </li>
 </ul>
+
+
+## Notes Taker App
+
+<img src="public\notes-taker.jpg">
