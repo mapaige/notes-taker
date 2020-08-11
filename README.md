@@ -17,5 +17,3 @@ Create an application that can be used to write, save, and delete notes.
 
 Deployed app can be found at <link href= "https://enigmatic-journey-49100.herokuapp.com/">"https://enigmatic-journey-49100.herokuapp.com/"
 
-<link href="https://mapaige.github.io/work-day-scheduler/"/>
-"https://mapaige.github.io/work-day-scheduler/
